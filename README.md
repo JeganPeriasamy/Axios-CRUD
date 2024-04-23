@@ -11,7 +11,7 @@ A simple CRUD (Create, Read, Update, Delete) application built using React and A
 
 ## Live Demo
 
-Check out the live demo of the project: [Axios using CRUD demo]('https://userdatademo.netlify.app/')
+Check out the live demo of the project: ('https://userdatademo.netlify.app/')
 
 ## Screenshots
 ![image](https://github.com/JeganPeriasamy/Axios-CRUD/assets/166896131/267b9d37-90c1-4dfd-90b5-6d325fe02194)
